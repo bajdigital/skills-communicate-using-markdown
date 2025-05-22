@@ -11,3 +11,6 @@ func main() {
     fmt.Println("hello world")
 }
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
